@@ -7,3 +7,4 @@ swin-transormer + svr
 
 https://www.kaggle.com/competitions/google-research-identify-contrails-reduce-global-warming
 
+Chinese comments
